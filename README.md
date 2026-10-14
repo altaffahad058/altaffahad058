@@ -57,11 +57,6 @@ React chart and data-visualization components built to written specifications as
 
 `React` `TypeScript` `SVG` `D3`
 
-## 🧪 Open-source projects
-
-- **[AskMyDocs](https://github.com/altaffahad058/ask-my-docs)**: upload your documents and ask questions about them. RAG with LangChain, Cohere embeddings and Pinecone, built on Next.js, Prisma and PostgreSQL.
-- **[Cricket Match Management](https://github.com/altaffahad058/match-management-system)**: team and player management, playing XI selection and ball-by-ball live scoring with statistics. Next.js and PostgreSQL.
-
 ## 🧰 Skills
 
 | Area | Tools |
